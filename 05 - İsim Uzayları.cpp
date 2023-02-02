@@ -4,16 +4,13 @@
 
 using namespace std; // std: standart isim uzayı
 
-    /*
+/*
         Programlama yaparken değişkenler kullanıyoruz.
-        Global ve Yerel değişkenler olmak üzer
+        Global ve Yerel değişkenler olmak üzere
         Global değişkenlere programımızın herhangi bir yerinden erişebilirken
         Yerel değişkenlere sadece tanımlı olduğu bloktan erişebiliyorduk.
         Burada işte bu bloğa artık SCOPE adı verilecektir.
 
-    */
-
-/*
 ---------------------------------------------------------------------------------------------
        İSİM UZAYI KONUSU
 
@@ -57,7 +54,7 @@ int main() {
         Ancak int x = 10 ifadesini main içerisinde kaldırırsak. Programımız hata verecektir.
         "x" değişkenini bulamayacaktır.
 
-     */
+    */
 
      cout << programci1::x << endl; // :: ifadesi ile namespace'den çağırdık.
      cout << programci2::x << endl;
