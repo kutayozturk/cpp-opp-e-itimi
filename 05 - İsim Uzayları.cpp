@@ -32,7 +32,6 @@ namespace programci1{
     int x = 10;
     cout << x <<endl;
     }
-
 }
 
 namespace programci2{
@@ -41,7 +40,6 @@ namespace programci2{
     int x = 10;
     cout << x <<endl;
     }
-
 }
 
 
