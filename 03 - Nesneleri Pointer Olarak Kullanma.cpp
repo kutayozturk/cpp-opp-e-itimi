@@ -1,6 +1,5 @@
 
-// Class'lara davranış ekleyelim yani METOT eklemeyi görelim
-// Pointer'lar ile Nesne Oluşturma
+// Nesneleri Pointer Olarak Kullanma
 
 #include <iostream>
 
