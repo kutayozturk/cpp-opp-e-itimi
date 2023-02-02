@@ -1,5 +1,5 @@
 
-// Class'lara davranış ekleyelim yani METOT eklemeyi görelim
+// Sınıflara Metot Ekleme ve Kullanma
 
 #include <iostream>
 
