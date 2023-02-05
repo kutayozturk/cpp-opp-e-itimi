@@ -1,4 +1,4 @@
-// Nesneleri Pointer Dizisi Olarak Kullanma
+// Sınıf Tasarımında Metotları Dışırı Taşıma
 #include <iostream>
 
 using namespace std;
